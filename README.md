@@ -3,16 +3,8 @@
 Deskripsi singkat
 -----------------
 
-Notebook `pert9.ipynb` berisi materi dan latihan untuk Praktikum Aljabar (Algen) — Pertemuan 9. Notebook memadukan penjelasan teori singkat, contoh kode Python, dan visualisasi hasil eksperimen/soal.
+Notebook `pert9.ipynb` berisi materi dan latihan untuk Praktikum Kecerdasan Buatan (Algen) — Pertemuan 9. Notebook memadukan penjelasan teori singkat, contoh kode Python, dan visualisasi hasil eksperimen/soal.
 
-Isi utama
----------
-
-- Pendahuluan dan tujuan pembelajaran
-- Penjabaran konsep yang dibahas pada pertemuan
-- Implementasi dan contoh kode (komputasi numerik / aljabar)
-- Visualisasi dan interpretasi hasil
-- Kesimpulan dan latihan/soal
 
 Prasyarat
 ---------
@@ -62,7 +54,3 @@ File terkait
 
 - `pert9.ipynb` — notebook pertemuan 9
 
-Kontak
-------
-
-Untuk pertanyaan atau perbaikan README, hubungi pembuat praktikum atau rekan pengampu mata praktikum.
